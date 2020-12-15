@@ -18,10 +18,10 @@
 #
 # ## Table of Contents
 #
-# * [Day 1: Report Repair](#Day-1:-Report-Repair)
-# * [Day 2: Password Philosophy](#Day-2:-Password-Philosophy)
-# * [Day 3: Toboggan Trajectory](#Day-3:-Toboggan-Trajectory)
-# * [Day 15: Rambunctious Recitation](#Day-15:-Rambunctious-Recitation)
+# * [Day 1: Report Repair](#day-1-report-repair)
+# * [Day 2: Password Philosophy](#day-2-password-philosophy)
+# * [Day 3: Toboggan Trajectory](#day-3-toboggan-trajectory)
+# * [Day 15: Rambunctious Recitation](#day-15-rambunctious-recitation)
 
 # %% [markdown]
 # ## Day 1: Report Repair
