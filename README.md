@@ -515,7 +515,7 @@ def valid(passport):
     return True
 
 passports = [{kv.split(":")[0]: kv.split(":")[1] for kv in p.split()} for p in input.split("\n\n")]
-np.sum([1 if valid(p) else 0 for p in passports])
+np.sum([valid(p) for p in passports])
 ```
 
 ## Day 15: Rambunctious Recitation
