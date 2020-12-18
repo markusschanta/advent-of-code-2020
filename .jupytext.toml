@@ -1,2 +1,0 @@
-default_jupytext_formats = "ipynb,md,py:percent"
-hide_notebook_metadata = true
