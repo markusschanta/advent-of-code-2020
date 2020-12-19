@@ -28,6 +28,7 @@ jupyter:
 * [Day 4: Passport Processing](day.04.ipynb)
 * [Day 5: Binary Boarding](day.05.ipynb)
 * [Day 6: Custom Customs](day.06.ipynb)
+* [Day 7: Handy Haversacks](day.07.ipynb)
 * [Day 15: Rambunctious Recitation](day.15.ipynb)
 * [Day 16: Ticket Translation](day.16.ipynb)
 * [Day 17: Conway Cubes](day.17.ipynb)
