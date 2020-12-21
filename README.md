@@ -32,3 +32,4 @@ jupyter:
 * [Day 15: Rambunctious Recitation](day.15.ipynb)
 * [Day 16: Ticket Translation](day.16.ipynb)
 * [Day 17: Conway Cubes](day.17.ipynb)
+* [Day 18: Operation Order](day.18.ipynb)
