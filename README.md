@@ -33,3 +33,4 @@ jupyter:
 * [Day 16: Ticket Translation](day.16.ipynb)
 * [Day 17: Conway Cubes](day.17.ipynb)
 * [Day 18: Operation Order](day.18.ipynb)
+* [Day 21: Allergen Assessment](day.21.ipynb)
