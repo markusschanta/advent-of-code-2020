@@ -35,3 +35,4 @@ jupyter:
 * [Day 18: Operation Order](day.18.ipynb)
 * [Day 21: Allergen Assessment](day.21.ipynb)
 * [Day 22: Crab Combat](day.22.ipynb)
+* [Day 23: Crab Cups](day.23.ipynb)
